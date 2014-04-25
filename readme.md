@@ -1,4 +1,4 @@
-Android-Take-Photo-From-Camera-and-Gallery-Code-Sample
+ANDROID – ADDING, DELETING AND RETRIEVING CONTACTS
 ======================================================
 
 Main objective of this tutorial is to help you to getting, adding and deleting the contacts from android device.
